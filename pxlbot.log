@@ -1,0 +1,25 @@
+INFO:root:Tweeting trending http://t.co/WCt5z9nl0T
+DEBUG:root:[{'message': 'Status is over 140 characters.', 'code': 186}]
+INFO:root:Tweeting trending http://t.co/ee3BFc68rJ
+DEBUG:root:[{'message': 'Status is over 140 characters.', 'code': 186}]
+INFO:root:Tweeting trending http://t.co/lp
+DEBUG:root:[{'message': 'Status is over 140 characters.', 'code': 186}]
+INFO:root:Tweeting regular http://imgur.com/a/lJBbO
+INFO:root:Target Start!
+INFO:root:Tweeting trending http://t.co/XNdkPy4q6U
+INFO:root:Regular Start!
+INFO:root:Tweeting regular http://imgur.com/BNYrvx9
+INFO:root:Regular Start!
+INFO:root:Tweeting regular http://imgur.com/CqoXGvR
+INFO:root:Target Start!
+INFO:root:Tweeting trending http://t.co/EMt06RI0r4
+INFO:root:Target Start!
+INFO:root:Tweeting trending http://t.co/alNs4YzqOF
+DEBUG:root:[{'message': 'Status is over 140 characters.', 'code': 186}]
+INFO:root:Tweeting trending http://t.co/OHYBSvFtGh
+DEBUG:root:[{'message': 'Status is over 140 characters.', 'code': 186}]
+INFO:root:Tweeting trending http://t.co/7wtK3oGTcK
+DEBUG:root:[{'message': 'Status is over 140 characters.', 'code': 186}]
+INFO:root:Finished
+INFO:root:Regular Start!
+INFO:root:Tweeting regular http://i.imgur.com/4egH40G.jpg
