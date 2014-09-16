@@ -56,7 +56,7 @@ def TargetTweet():
   names = [trend['name'] for trend in trends]
   for name in names:
     try:
-      cur2.execute('SELECT * FROM links WHERE TIME > DATE_SUB(CURDATE(), INTERVAL 10 HOUR) AND nsfw = 0 AND site != "instagram" AND title like (%s) ORDER BY RAND() DESC LIMIT 1',("%" + name + "%"))
+      cur2.execute('SELECT * FROM links WHERE TIME > DATE_SUB(CURDATE(), INTERVAL 10 HOUR) AND nsfw = 0 AND site != "instagram" OR site != "twitter" AND title like (%s) ORDER BY RAND() DESC LIMIT 1',("%" + name + "%"))
       if not cur2.rowcount:
         noop = 1
       else:
